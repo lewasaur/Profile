@@ -26,7 +26,7 @@ export default {
     },
     methods: {
         scrollView(selector) {
-            document.querySelector(selector).scrollIntoView({behavior: "smooth"})
+            document.querySelector(selector).scrollIntoView({behavior: "smooth", block: "center"})
         }
     }
 }

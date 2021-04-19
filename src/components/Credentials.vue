@@ -1,6 +1,6 @@
 <template>
     <div id="credentials-section">
-        <div class="title-container">
+        <div class="title-container" >
             <h1 class="title-page">Credentials</h1>
         </div>
         <div class="credentials-div" cl>
@@ -58,7 +58,7 @@ export default {
 <style scoped>
 #credentials-section {
     background-color: #E64398;
-    min-height: 70vh;
+    min-height: 80vh;
 
 }
 
@@ -79,6 +79,7 @@ export default {
 .credential-box h2 {
     font-size: 1.8em;
     margin: 1em auto;
+    text-decoration: underline overline;
 }
 
 .credential-box + .credential-box {
@@ -91,7 +92,7 @@ export default {
             width: 96%;
         }
         #credentials-section {
-            min-height: 90vh;
+            min-height: 100vh;
         }
     }
 

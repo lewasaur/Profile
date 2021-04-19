@@ -7,7 +7,7 @@
         <Project 
             projectId="p1"
             title="JiffyTyper"
-            description="lorem typing bla bnla bla yes koi no moonlight"
+            description="A typing game where the user must type out the entire text in the shortest time possible. This webapp has a backend/database where the users can send their own texts. The texts are saved through a database and each text will save the user who has the highest score"
             technologies="EJS, Bootstrap, NodeJs, MongoDB, Express"
             live="https://jiffytyper.herokuapp.com/"
             source="https://github.com/lewasaur/JiffyTyperSource"
@@ -17,8 +17,8 @@
         <Project 
             projectId="p2"
             title="ResinPeace"
-            description="lorem resin genshin impact say no koi no moonlight iya iya sen resin 160"
-            technologies="HTMl, CSS, Javascript"
+            description="A calculator webapp that can help Genshin Impact players keep track on when it's best to login. Genshin Impact is a mobile game where the player can only redeem rewards when they spend resins. Resins can only reach up to 160 and regenerate every 8 minutes."
+            technologies="HTML, CSS, Javascript"
             live="https://lewasaur.github.io/resinpeace/"
             source="https://github.com/lewasaur/resinpeace/tree/master"
             imageLink="resinPeaceThumb.png"

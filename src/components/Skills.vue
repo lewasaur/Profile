@@ -12,9 +12,10 @@
                         <li>CSS</li>
                         <li>Javascript Es6</li>
                         <li>VueJS</li>
-                        <li>MongoDB</li>
+                        <li>NodeJS</li>
                         <li>Python</li>
                         <li>C++</li>
+                        <li>MongoDB</li>
                         <li>MySQL</li>
                         <li>Excel</li>
                         <li>Business Analytics</li>
@@ -29,6 +30,7 @@
                         <li>MongoDB Atlas</li>
                         <li>Packet Tracer</li>
                         <li>Jupyter Notebook</li>
+                        <li>MS Office</li>
                     </ul>
                 </div>
                 <!-- <div class="skills-soft">
@@ -54,7 +56,7 @@ export default {
 <style scoped>
 #skills-section {
     background-color: #F172A1;
-    min-height: 40vh;
+    min-height: 50vh;
 }
 
 .skills-div {

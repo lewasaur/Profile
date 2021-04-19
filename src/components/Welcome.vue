@@ -48,8 +48,10 @@ export default {
         border-radius: 50%;
         flex: 1 1 20rem;
     }
-    .welcme-text {
+
+    .welcome-text {
         flex: 1 1 20rem;
+        text-align: center;
     }
 
     @media screen and (max-width: 1155px),
@@ -67,7 +69,12 @@ export default {
             width: 128px;
             margin: 2em 2em;
         }
-    
+        .welcome-text {
+            font-size: 1.2em;
+        }
+        h1 {
+            font-size: 1.4em;
+        }
     /* @media screen and (max-height: 1155px) {
         #welcome-section {
             height: auto;

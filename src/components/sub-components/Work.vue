@@ -70,7 +70,7 @@ export default {
     .work-company {
         font-weight: 100;
         font-style: italic;
-        font-size: 0.7em;
+        font-size: 0.8em;
     }
 
     @media screen and (max-width: 1155px),

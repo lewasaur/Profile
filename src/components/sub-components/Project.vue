@@ -14,7 +14,7 @@
                         {{ description }}
                     </div>
                     <div class="project-technologies">
-                        <b>Technologies used:</b> <span style="font-style: italic">{{ technologies }} </span>
+                        <b style="font-size: 1.2em">Technologies used:</b> <span style="font-style: italic" >{{ technologies }} </span>
                     </div>
                 </div>
 
@@ -122,6 +122,10 @@ export default {
         padding: 2px 16px;
         background-color: #B39BC8;
         }
+
+    .modal-body div {
+        margin: 2% auto;
+    }
 
     .modal-footer {
         padding: 2px 16px;
