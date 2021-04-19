@@ -21,7 +21,7 @@
             </div>
             <div class="credential-box"><h2>Education</h2>
                 <Work 
-                    title="Electronics and Communications Engineering"
+                    title="BS Electronics and Communications Engineering"
                     company="Holy Angel University"
                     startDate="Jun 2013"
                     endDate="- Oct 2018"

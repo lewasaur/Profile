@@ -31,6 +31,7 @@
                         <li>Packet Tracer</li>
                         <li>Jupyter Notebook</li>
                         <li>MS Office</li>
+                        <li>GitHub</li>
                     </ul>
                 </div>
                 <!-- <div class="skills-soft">
