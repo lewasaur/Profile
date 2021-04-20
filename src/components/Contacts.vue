@@ -42,15 +42,16 @@ export default {
 <style scoped>
 #contact-section {
     background-color: #F172A1;
+    min-height: 40vh;
 }
 
 .contact-div {
-    height: 30vh;
     width: 20%;
     margin: auto;
     display: flex;
     flex-direction: column;
 }
+
 
 
 @media screen and (max-width: 1155px),

@@ -43,6 +43,10 @@ export default {
     text-align: center;
 }
 
+.contact-box:last-of-type {
+    margin-bottom: 2%;
+}
+
 .contact-content {
     text-align: center;
 }
