@@ -5,6 +5,13 @@
         </div>
         <div class="credentials-div" cl>
             <div class="credential-box"><h2>Work Experience</h2>
+                
+                <Work
+                    title="Software Engineer"
+                    company="Hooli Software"
+                    startDate="Jun 2021"
+                    endDate="- Present"
+                />
                 <Work 
                     title="Online Course Mentor"
                     company="Adipster Tech Ltd"
