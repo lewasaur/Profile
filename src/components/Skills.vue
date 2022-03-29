@@ -15,6 +15,7 @@
                         <li>NodeJS</li>
                         <li>Python</li>
                         <li>C++</li>
+                        <li>Java</li>
                         <li>MongoDB</li>
                         <li>MySQL</li>
                         <li>Excel</li>
@@ -32,6 +33,8 @@
                         <li>Jupyter Notebook</li>
                         <li>MS Office</li>
                         <li>GitHub</li>
+                        <li>SourceTree</li>
+                        <li>Jira</li>
                     </ul>
                 </div>
                 <!-- <div class="skills-soft">
