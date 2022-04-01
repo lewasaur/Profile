@@ -42,7 +42,7 @@ export default {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-  color: #F0EBF4
+  color: #21325E;
 }
 
 .title-container {
