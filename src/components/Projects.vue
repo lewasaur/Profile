@@ -40,7 +40,7 @@ export default {
 
 <style scoped>
 #projects-section {
-    background-color: #FE7F9C;
+    background-color: #EFDAD7;
     min-height: 60vh;
 }
 

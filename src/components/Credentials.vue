@@ -64,7 +64,7 @@ export default {
 
 <style scoped>
 #credentials-section {
-    background-color: #FE7F9C;
+    background-color: #EFDAD7;
     min-height: 80vh;
 
 }
