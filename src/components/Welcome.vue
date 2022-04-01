@@ -26,7 +26,7 @@ export default {
 
 <style scoped>
     #welcome-section {
-        background-color: #F172A1;
+        background-color: #9AD0EC;
         margin-top: 10vh;
         height: 60vh;
 

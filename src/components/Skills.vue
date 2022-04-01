@@ -59,7 +59,7 @@ export default {
 
 <style scoped>
 #skills-section {
-    background-color: #F172A1;
+    background-color: #9AD0EC;
     min-height: 50vh;
 }
 

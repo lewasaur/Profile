@@ -27,7 +27,7 @@ export default {
 
 <style scoped>
 .main-head{
-    background-color: #B39BC8;
+    background-color: #1572A1;
     color: white;
     /* sticky */
     overflow: hidden;
