@@ -24,6 +24,16 @@
             imageLink="resinPeaceThumb.png"
             imageAlt="Resin Peace"
         />
+        <Project 
+            projectId="p3"
+            title="Songs Data Analysis"
+            description="An analysis made on my Distrokid(Music Distributing Platform) Data using Python to see which of my songs are doing well and which platforms and countries have big sales. "
+            technologies="Python, Pandas, Matplotlib"
+            live="https://github.com/lewasaur/Song_Sales_Analysis/blob/main/Distrokid%20Data.ipynb"
+            source="https://github.com/lewasaur/Song_Sales_Analysis"
+            imageLink="https://images.pexels.com/photos/590041/pexels-photo-590041.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+            imageAlt="Songs Data Analysis"
+        />
         </div>
     </div>
 </template>

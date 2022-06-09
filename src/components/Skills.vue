@@ -10,7 +10,7 @@
                     <ul>
                         <li>HTML</li>
                         <li>CSS</li>
-                        <li>Javascript Es6</li>
+                        <li>Javascript</li>
                         <li>VueJS</li>
                         <li>NodeJS</li>
                         <li>Python</li>
@@ -31,6 +31,7 @@
                         <li>MongoDB Atlas</li>
                         <li>Packet Tracer</li>
                         <li>Jupyter Notebook</li>
+                        <li>Tableau</li>
                         <li>MS Office</li>
                         <li>GitHub</li>
                         <li>SourceTree</li>

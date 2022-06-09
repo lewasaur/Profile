@@ -6,7 +6,7 @@
             </div>
             <div class="welcome-text">
                 <h1>Hello I'm Arni Verwasa</h1>
-                <h2 style="margin-top: 1.5%;">An aspiring software engineer based in Pampanga, Philippines</h2>
+                <h2 style="margin-top: 1.5%;">A software engineer and aspiring Data Scientist based in Pampanga, Philippines</h2>
                 <h4 style="margin-top: 2%;">Thank you for visiting my page. I made this website to showcase my personal projects and abilities as a web developer to attract clients and employers. I also made this to practice my skills on
                     HTML, CSS, Javascript, and VueJS which are the technologies used to make this portfolio website. I'm always open to learning and new opportunities.
                 </h4>
