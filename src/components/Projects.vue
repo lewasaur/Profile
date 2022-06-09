@@ -31,7 +31,7 @@
             technologies="Python, Pandas, Matplotlib"
             live="https://github.com/lewasaur/Song_Sales_Analysis/blob/main/Distrokid%20Data.ipynb"
             source="https://github.com/lewasaur/Song_Sales_Analysis"
-            imageLink="https://images.pexels.com/photos/590041/pexels-photo-590041.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+            imageLink="stock_data.jpeg"
             imageAlt="Songs Data Analysis"
         />
         </div>
