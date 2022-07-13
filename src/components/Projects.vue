@@ -32,7 +32,17 @@
             live="https://github.com/lewasaur/Song_Sales_Analysis/blob/main/Distrokid%20Data.ipynb"
             source="https://github.com/lewasaur/Song_Sales_Analysis"
             imageLink="stock_data.jpeg"
-            imageAlt="Songs Data Analysis"
+            imageAlt="Data Analyst Project"
+        />
+        <Project 
+            projectId="p4"
+            title="Chinook Music StoreDB Analysis"
+            description="My personal analysis for the Chinook Music Store Database "
+            technologies="Python, Pandas, Seaborn, SQL"
+            live="https://github.com/lewasaur/Chinook_DB_Analysis/blob/master/Chinook%20Music%20Store%20DB%20analysis.ipynb"
+            source="https://github.com/lewasaur/Chinook_DB_Analysis"
+            imageLink="stock_data.jpeg"
+            imageAlt="Data Analyst Project"
         />
         </div>
     </div>
