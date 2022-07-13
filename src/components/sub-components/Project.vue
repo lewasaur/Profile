@@ -111,16 +111,16 @@ export default {
 
     .modal-header {
         padding: 2px 16px;
-        background-color: #F172A1;
+        background-color: #EFDAD7;
         color: white;
         display: flex;
         flex-direction: row;
         justify-content: space-between;
-    }
+    } 
 
     .modal-body {
         padding: 2px 16px;
-        background-color: #B39BC8;
+        background-color: #9AD0EC;
         }
 
     .modal-body div {
@@ -129,7 +129,7 @@ export default {
 
     .modal-footer {
         padding: 2px 16px;
-        background-color: #F172A1;
+        background-color: #EFDAD7;
         color: white;
     }
 

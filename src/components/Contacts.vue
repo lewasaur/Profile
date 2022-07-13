@@ -41,7 +41,7 @@ export default {
 
 <style scoped>
 #contact-section {
-    background-color: #9AD0EC;
+    background-color: #EFDAD7;
     min-height: 40vh;
 }
 

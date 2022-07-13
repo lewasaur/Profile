@@ -10,7 +10,7 @@
                     title="Software Engineer"
                     company="Hooli Software"
                     startDate="Jun 2021"
-                    endDate="- Present"
+                    endDate="- May 2022"
                 />
                 <Work 
                     title="Online Course Mentor"

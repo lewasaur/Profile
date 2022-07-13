@@ -5,6 +5,7 @@
     <Credentials />
     <Skills />
     <Projects />
+    <Dprojects />
     <Contacts />
   </div>
 
@@ -17,6 +18,7 @@ import Credentials from './components/Credentials'
 import Skills from './components/Skills'
 import Projects from './components/Projects'
 import Contacts from './components/Contacts'
+import Dprojects from './components/Dprojects.vue'
 export default {
   name: 'App',
   components: {
@@ -25,7 +27,8 @@ export default {
     Credentials,
     Skills,
     Projects,
-    Contacts
+    Contacts,
+    Dprojects
   }
 }
 </script>
